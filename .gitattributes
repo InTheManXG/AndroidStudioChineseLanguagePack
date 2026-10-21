@@ -1,0 +1,5 @@
+# 空字段用于注册特殊显示变换，空白属于数据，不能自动裁剪。
+compose-patch/resources/translations.tsv whitespace=-blank-at-eol
+# Java manifest 需要空行结束，properties 的空白可能属于译文。
+compose-patch/MANIFEST.MF whitespace=-blank-at-eof
+plugin/resources/static-ui-translations.properties whitespace=-blank-at-eol
