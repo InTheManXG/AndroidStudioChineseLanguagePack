@@ -1,0 +1,11 @@
+Android Studio Chinese Language Pack — community supplement
+
+Based on https://github.com/sollyu/AndroidStudioChineseLanguagePack
+Copyright (C) 2022-2026 sollyu.
+Modifications Copyright (C) 2026 InTheManXG.
+
+This fork adds Android-specific translations, a supplementary plugin, and a Java agent.
+The original Chinese language pack is provided by JetBrains:
+https://plugins.jetbrains.com/plugin/index?xmlId=com.intellij.zh
+Existing third-party notices and rights remain with their respective owners.
+The repository license does not relicense third-party language-pack content.
